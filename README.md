@@ -3,6 +3,10 @@
 Semplice libreria per gestire in "rampa" un motore passo-passo
 alimentato attraverso un driver step-direzione.
 
+Per l'installazione in Arduino IDE:  
+Sketch > Include Library > Add .ZIP Library...  
+[StepperT.zip](StepperT/StepperT.zip)
+
 Esempio di utilizzo:
 
 ```
@@ -26,6 +30,10 @@ void loop() {
 
 Semplice libreria per gestire in "rampa" tre motori passo-passo
 interpolati linearmente ed alimentati tramite driver step-direzione
+
+Per l'installazione in Arduino IDE:  
+Sketch > Include Library > Add .ZIP Library...  
+[Stepper3T.zip](Stepper3T/Stepper3T.zip)
 
 Esempio di utilizzo:
 
